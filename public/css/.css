@@ -1,0 +1,39 @@
+.tippy-tooltip {
+    background-color: transparent;
+}
+
+aside::-webkit-scrollbar {
+    width: .07rem;
+    border-radius: .2rem;
+    background-color: transparent;
+}
+
+aside::-webkit-scrollbar-thumb {
+    background-color: #cbd5e1;
+    border-radius: .2rem;
+}
+
+.scroller::-webkit-scrollbar { 
+    width: .07rem;
+    border-radius: .2rem;
+    background-color: transparent;            
+}
+
+.scroller::-webkit-scrollbar-thumb {
+    background-color: #cbd5e1;
+    border-radius: .2rem;
+}
+
+.ui-datepicker {
+    z-index: 999 !important;
+    display: none;
+}
+
+.ui-state-highlight {
+    border: 0 !important;
+}
+
+.ui-state-highlight a {
+    background: #363636 !important;
+    color: #fff !important;
+}
